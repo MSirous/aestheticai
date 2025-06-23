@@ -51,3 +51,6 @@ alembic upgrade head
 
 # Launch server
 uvicorn app.main:app --reload
+
+## 👩‍💻 Author  
+Made with ❤️ by [Mahsa Sirous](mailto:mahsa.sirous@emu.edu.tr)
