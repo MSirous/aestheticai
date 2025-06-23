@@ -52,5 +52,22 @@ alembic upgrade head
 # Launch server
 uvicorn app.main:app --reload
 
-## 👩‍💻 Author  
-Made with ❤️ by [Mahsa Sirous](mailto:mahsa.sirous@emu.edu.tr)
+---
+
+## 🧠 Coded with Curiosity & Coffee
+
+☕ Powered by late-night ideas and early-morning commits.  
+🎨 Designed to empower creators, one pixel at a time.  
+🚀 Welcome to **AestheticAI** — where art meets intelligence.
+
+---
+
+## 👩‍💻 Author
+
+Made with ❤️, caffeine ☕, and a pinch of chaos by [Mahsa Sirous](mailto:mahsa.sirous@emu.edu.tr)  
+📫 Wanna say hi or collaborate? Drop a line at msirouss@gmail.com  
+🐙 GitHub: [github.com/MahsaSirous](https://github.com/MahsaSirous)
+
+---
+
+> “Behind every clean commit is a moment of silent panic.” 😅
